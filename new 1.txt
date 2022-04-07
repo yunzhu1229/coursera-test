@@ -1,0 +1,13 @@
+git add 
+git status
+git diff
+git diff --cached
+git commit 
+git push 
+git pull
+git reset --hard
+git log
+
+
+//go to site folder
+browser-sync.cmd start --server --direcotry --files "*"
